@@ -9,24 +9,24 @@
 
 <h2> Subtask 2 - Build a database to control the robot arm </h2>
 <p> The database is called robot_arm and it has 3 tables: </p>
-<img src="db.jpg">
+<img src="db.jpg"><br>
    
 <p> Table 1 - robot_arm_controller with 7 columns, each one representing the respective motor and an ID column.
-   <img src="motors.png">
+   <img src="motors.png"><br>
 </p>
 
 <p> Table 2 - play with 2 columns, one for the id and the second is related to the on button.
-    <img src="play.png">
+    <img src="play.png"><br>
 </p>
 
 <p> Table 3 - movements with 6 columns, one for the id and the other 5 represent the movements.
-    <img src="movements.jpg">
+    <img src="movements.jpg"><br>
 </p>
 
-<p> The related page for this task is <b> robot_arm.sql </b> </p>
+<p> The related file for this task is <b> robot_arm.sql </b> </p>
 
 <h2> Subtask 3 - Connect the interface with the database</h2>
-<p> When the user chooses values for the motors and clicks (save) , the values will be sent to the robot_arm table. The (on) button switches on the robot arm but sending 1 to the play column in the play table. When the user controls the base, the value of the button will be saved in the respective column in the movements table. For example, if the user clicks on forward, then "forward" will be saved in the forward column. The related page for this task is <b> conrol.php </b></p>
+<p> When the user chooses values for the motors and clicks (save) , the values will be sent to the robot_arm table. The (on) button switches on the robot arm but sending 1 to the play column in the play table. When the user controls the base, the value of the button will be saved in the respective column in the movements table. For example, if the user clicks on forward, then "forward" will be saved in the forward column. The related file for this task is <b> conrol.php </b></p>
 
 <h2> Subtask 4 - Write PHP pages to connect the database with the hardware</h2>
 <ul>
