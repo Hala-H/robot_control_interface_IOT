@@ -9,7 +9,7 @@
 
 <h2> Subtask 2 - Build a database to control the robot arm </h2>
 <p> The database is called robot_arm and it has 3 tables: </p>
-![image](https://user-images.githubusercontent.com/47666430/123280672-a5567880-d511-11eb-833d-00a7cb90d93c.png)
+<img src="db.png">
    
 <p> Table 1 - robot_arm_controller with 7 columns, each one representing the respective motor and an ID column.
    ![image](https://user-images.githubusercontent.com/47666430/122266456-7c672f80-cee2-11eb-969d-da17255450dc.png)
