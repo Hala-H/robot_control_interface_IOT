@@ -20,7 +20,7 @@
 </p>
 
 <p> Table 3 - movements with 6 columns, one for the id and the other 5 represent the movements.
-    <img src="movements.png">
+    <img src="movements.jpg">
 </p>
 
 <p> The related page for this task is <b> robot_arm.sql </b> </p>
