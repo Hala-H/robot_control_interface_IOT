@@ -9,18 +9,18 @@
 
 <h2> Subtask 2 - Build a database to control the robot arm </h2>
 <p> The database is called robot_arm and it has 3 tables: </p>
-<img src="db.png">
+<img src="db.jpg">
    
 <p> Table 1 - robot_arm_controller with 7 columns, each one representing the respective motor and an ID column.
-   ![image](https://user-images.githubusercontent.com/47666430/122266456-7c672f80-cee2-11eb-969d-da17255450dc.png)
+   <img src="motors.png">
 </p>
 
 <p> Table 2 - play with 2 columns, one for the id and the second is related to the on button.
-   ![image](https://user-images.githubusercontent.com/47666430/122265990-f945d980-cee1-11eb-9376-4ef1c701f1c6.png)
+    <img src="play.png">
 </p>
 
 <p> Table 3 - movements with 6 columns, one for the id and the other 5 represent the movements.
-   ![image](https://user-images.githubusercontent.com/47666430/123280532-83f58c80-d511-11eb-8865-a7e56b20a0ba.png)
+    <img src="movements.png">
 </p>
 
 <p> The related page for this task is <b> robot_arm.sql </b> </p>
