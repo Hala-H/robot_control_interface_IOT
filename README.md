@@ -1,6 +1,8 @@
 <h1> Task 2 - Robot Arm Controller Complete Interface with Arm and Base panels </h1>
-<p> This task involves 6 subtasks. The main idea is to create an interface to control the arm and the base. The languages used are HTML, CSS, JavaScript, PHP and SQL </p>
-
+<p> This task involves 6 subtasks. The main idea is to create an interface to control the arm and the base. The languages used are HTML, CSS, JavaScript, PHP and SQL.
+<b> Watch this <a href="https://youtu.be/6AHKEd37_Fw"> video </a> for a preview. </b>
+  <b>لترى كيف يعمل الموقع </a>الفيديو<a href="https://youtu.be/6AHKEd37_Fw"> شاهد </b>
+</p>
 <h2> Subtask 1 - Design an interface to control the robot base </h2>
 <p> The first part of the interface contains 6 range sliders, each one represents the servo motor that rotates from 0 to 180 degrees. The slider values are shown on the right of the slider. The second part contains 5 buttons to move the base: forward, backward, stop, left and right. The base will move according to the required movement and when you click any button, the website will redirect you to php page which will show the value of the button.<br>
   The related pages for this task are <b> control.html, the css folder and the js folder. </b> </p>
